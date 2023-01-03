@@ -1,0 +1,29 @@
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.exe
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.pdb
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csprojAssemblyReference.cache
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.Form1.resources
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.Properties.Resources.resources
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.GenerateResource.cache
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.CoreCompileInputs.cache
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.exe
+D:\Users\Lar\Documents\Visual Studio 2019\Projects\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.pdb
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.exe
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.pdb
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.Form1.resources
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.Properties.Resources.resources
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.GenerateResource.cache
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.CoreCompileInputs.cache
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.exe
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.pdb
+D:\Larisa\Documents\Visual Studio 2019\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.AssemblyReference.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.exe.config
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.exe
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\bin\Debug\WindowsFormsAppFuzzy.pdb
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.AssemblyReference.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.Form1.resources
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.Properties.Resources.resources
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.GenerateResource.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.csproj.CoreCompileInputs.cache
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.exe
+C:\Users\Relarek\Downloads\WindowsFormsAppFuzzy\WindowsFormsAppFuzzy\obj\Debug\WindowsFormsAppFuzzy.pdb
